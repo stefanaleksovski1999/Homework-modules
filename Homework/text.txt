@@ -1,0 +1,1 @@
+Dodavanje na text so writeFile
